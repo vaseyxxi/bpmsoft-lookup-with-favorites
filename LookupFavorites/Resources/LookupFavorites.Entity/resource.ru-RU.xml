@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Избранное" />
+			<Item Name="Columns.Contact.Caption" Value="Контакт" />
+			<Item Name="Columns.LookupSchemaName.Caption" Value="Объект справочника" />
+			<Item Name="Columns.RecordId.Caption" Value="Запись" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

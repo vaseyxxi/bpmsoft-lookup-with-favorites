@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e86e38aa-2fda-4bf4-8a0f-f2506dabd51c",
+    "Name": "LookupFavorites",
+    "ModifiedOnUtc": "\/Date(1740986753000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Favorites",
+    "DependsOn": []
+  }
+}
