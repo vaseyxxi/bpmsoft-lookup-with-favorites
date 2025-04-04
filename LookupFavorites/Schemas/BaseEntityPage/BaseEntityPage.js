@@ -36,6 +36,10 @@ define("BaseEntityPage", ["RightUtilities"], function (RightUtilities) {
 					const filters = this.Ext.create("BPMSoft.FilterGroup");
 					const subFilters = this.Ext.create("BPMSoft.FilterGroup");
 
+					if (multiLookupConfig[0].filters) {
+						filters.addItem(multiLookupConfig[0].filters);
+					}
+
 					subFilters.addItem(
 						BPMSoft.createColumnFilterWithParameter(
 							BPMSoft.ComparisonType.EQUAL,
